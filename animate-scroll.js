@@ -1,4 +1,4 @@
-//In your HTML, add <script src="js/script.js"></script>
+//In your HTML, add <script src="js/animate-scroll.js"></script>
 //Insert 'data-anime="left, right, etc" in a html div or tag to call this function
 // The direction you will insert must be left,right, bottom or top
 /*Add this script to your css file.
